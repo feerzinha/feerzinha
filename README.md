@@ -4,9 +4,10 @@
 
 
 ### Hello 👋  I'm [Fernanda](https://www.linkedin.com/in/fernanda-moya/)!  
-
+<p>
 I am a specialist in software development with 10 years of experience and a passion for technology, lifelong learning, and being a part of awesome teams that build great things together. I love working with innovation to develop high-quality products and scalable solutions.<br>
 My main focus now is Android Development. I recently moved to the Netherlands from Brazil to work at Coolblue. 
+</p>
 <br/>
 ---
 

@@ -3,7 +3,7 @@
 </p>
 
 
-### Hello 👋 &nbsp;&nbsp; I'm [Fernanda](https://www.linkedin.com/in/fernanda-moya)!  
+### Hello <img src="https://raw.githubusercontent.com/feerzinha/feerzinha/master/wave.gif" width="30px"> &nbsp;&nbsp; I'm [Fernanda](https://www.linkedin.com/in/fernanda-moya)!  
 <p>
 I am a specialist in software development with 10 years of experience and a passion for technology, lifelong learning, and being a part of awesome teams that build great things together. I love working with innovation to develop high-quality products and scalable solutions.<br>
 My main focus now is Android Development. I recently moved to the Netherlands from Brazil to work at Coolblue. 
@@ -33,9 +33,6 @@ My main focus now is Android Development. I recently moved to the Netherlands fr
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feerzinha&theme=radical" />
 <p align="center">
   <br>
-  <br>
-  <img align="center" alt="CSS3" width="200px" src="https://png2.cleanpng.com/sh/e95b29106eac6ed6d72b98a528539972/L0KzQYm3V8A0N6ZthJH0aYP2gLBuTftwfJ1uhp9qbnT1f7rrTgNwbqV8eeRuLXTohrbzjCBubZ95RdN3ZILyebW0kCR2bJp0RdDqbnBndbj5hfUuPZM4etRtOUK8Qre7hsYvPmE6Tqg5NUC0RYS3VsQyQGI1TqI7LoDxd1==/kisspng-kotlin-android-software-development-android-studio-nanodegree-5b3bbd9292f4f6.605660501530641810602.png"/>
-  </p>
 
 
 <!--
